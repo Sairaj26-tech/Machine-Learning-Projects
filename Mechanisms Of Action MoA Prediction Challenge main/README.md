@@ -6,7 +6,8 @@ Helping to develop an algorithm to predict a compound’s MoA given its
 cellular signature, and thus, helping scientists advance the drug
 discovery process. \[paraphrased\]
 
-<img src=["./supp/cells_moa_mike_crop.png"]
+![cells_moa_mike_crop](https://user-images.githubusercontent.com/59919878/172709169-68f2203a-24d0-4f07-9f37-19d0fb0647e8.png)
+
 
 **The Goal**: "Develop an algorithm that automatically labels each case
 (in this case, sig\_id) in the test set as one or more MoA classes. Note
