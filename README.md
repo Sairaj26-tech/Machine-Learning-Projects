@@ -12,15 +12,20 @@
 **_[(https://github.com/Sairaj26-tech/Machine-Learning-Projects)](https://github.com/Sairaj26-tech/Machine-Learning-Projects)_ ⭐⭐⭐**
 
 ### List of Projects :-
-* Classification of Arrhythmia using ECG Data
+* Classification-of-Arrhythmia using ECG Data
 * Diabetes Prediction
+* Distracted-Driver-Detection-main
+* Employee-Turnover-by-Scikitlearn
 * Getting Admission in College Prediction
-* Heart Disease Prediction
 * Iris Flower Classification
 * Loan Repayment Prediction
+* Mechanisms-Of-Action-MoA-Prediction-Challenge-main
+* Predicting-Property-Maintenance-Fines
 * Predict Employee Turnover
+* Research-paper-predicition
+* TimeSeries-Multi-StoreSales-main
 * Wine Quality Prediction
-* 
+
 
 ### License
 
