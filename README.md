@@ -1,8 +1,9 @@
 # Machine-Learning-Projects
-This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.
 
 
-<div Align="center"><img alt="GIF" src="01%20Start/resources/a.png"/><h1> <a href=https://github.com/Sairaj26-tech/Machine-Learning-Projects">Machine Learning Projects </a></h1></div>
+
+![image](https://user-images.githubusercontent.com/59919878/172729797-26339032-57f0-4370-a1a0-95f629da980e.png)
+
   
 **This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.**
 
@@ -24,32 +25,4 @@ This Contain All the Machine Learning Projects that I have done while understand
 ### License
 
     MIT License Copyright (c) 2022 Sai Raj Shimoga Venkatesh 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
