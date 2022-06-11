@@ -1,4 +1,5 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
 
 
@@ -10,6 +11,14 @@
 **The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
 
 **_[(https://github.com/Sairaj26-tech/Machine-Learning-Projects)](https://github.com/Sairaj26-tech/Machine-Learning-Projects)_ ⭐⭐⭐**
+
+## Why this repository?
+• The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!<br/>
+• It looks good, isn't it?
+
+## Overview
+• This repository consists of all my Machine Learning projects.<br/>
+• Datasets are provided in each of the folders above, and the solution to the problem statements as well. 
 
 ### List of Projects :-
 * Classification-of-Arrhythmia using ECG Data
@@ -26,17 +35,6 @@
 * TimeSeries-Multi-StoreSales-main
 * Wine Quality Prediction
 
-# Machine Learning Projects
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
-
-
-## Why this repository?
-• The main purpose of making this repository is to keep all my Machine Learning projects at one place, hence keeping my GitHub clean!<br/>
-• It looks good, isn't it?
-
-## Overview
-• This repository consists of all my Machine Learning projects.<br/>
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
 ## Algorithms used
 **Regression:**<br/>
