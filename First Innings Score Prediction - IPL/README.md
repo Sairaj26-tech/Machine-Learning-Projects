@@ -10,7 +10,7 @@
 
 ## Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn<br/>
-• Dataset by **Shivam Mitra**: https://github.com/codophobia/CricketScorePredictor
+
 
 ## Data Cleaning and Preprocessing
 • **Removing unwanted columns**<br/>
